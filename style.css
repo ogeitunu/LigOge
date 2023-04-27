@@ -50,8 +50,8 @@ margin: 5px;
 }
 .footer-links{
     color: rgb(26, 9, 24); 
-    margin: 0 0 10px;
-    padding: 0;
+    margin: 1 1 10px;
+    padding: 1px;
  }
 
  .footer-links{
@@ -71,6 +71,13 @@ margin: 5px;
  .footer-right{
     float: right;
     }
+
+    .footer-right .textarea{
+        padding: 10px;
+        
+        }
+    
+
 
     
 
